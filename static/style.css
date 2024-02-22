@@ -1,0 +1,8 @@
+li{
+    float: left;
+    padding: 5px;
+    list-style-type: none;
+    font-size: larger;
+    text-decoration: none;
+    font-weight: bolder;
+}
